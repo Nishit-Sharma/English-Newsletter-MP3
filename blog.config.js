@@ -1,10 +1,10 @@
 const BLOG = {
   title: 'Mohrles Musings',
-  author: 'Nishit, Precious, Reihan, Chris, Gia',
+  author: 'Nishit, Precious, Reihan, Chris, Sarah',
   email: 'nishit.sharma@mcvts.org',
-  link: 'https://english-newsletter.vercel.app',
+  link: 'https://english-newsletter-mp3.vercel.app',
   newsletter: 'Mohrles Musings',
-  description: 'A reflection on Marking Period 2',
+  description: 'A reflection on Marking Period 3',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -33,7 +33,7 @@ const BLOG = {
     telegram: 'https://t.me/zuolan'
   },
   seo: {
-    keywords: ['Mohrles Musings', 'Nishit, Precious, Reihan, Chris, Gia', 'Blog'],
+    keywords: ['Mohrles Musings', 'Nishit, Precious, Reihan, Chris, Sarah', 'Blog'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS! Edit .env file!
